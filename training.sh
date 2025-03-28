@@ -1,5 +1,3 @@
-source /home/lingzhiyuan/anaconda3/etc/profile.d/conda.sh
-
 SAFE_EMBEDDINGS="./safe_embeddings/YOUR_SAFE_EMBEDDINGS_FOLDER"
 CUDA_DEVICE=1
 
